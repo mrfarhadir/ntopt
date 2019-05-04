@@ -7,6 +7,7 @@ npm install ntopt --save
 ```
 
 
+
 #### Simple Usage:
 - **`with NPM`**
 > install package and require in your project
@@ -22,6 +23,8 @@ let result = ntpt.result
 console.log(result)
 // هشت میلیارد چهارصد و پنجاه و شش میلیون و سیصد و بیست و پنج هزار و صد و چهل
 ```
+### Demo
+[ntopt.dev.mrfarhad.ir](http://ntopt.dev.mrfarhad.ir)
 
 any question ?
 [Ask It :)](http://mrfarhad.ir/#!/contact)
