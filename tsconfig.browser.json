@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "outDir": "./dist/browser",
+      "target": "es5",
+      "module": "es2015",
+      "moduleResolution": "node",
+      "lib": ["es2016", "dom", "es6"]
+    },
+    "include": [
+      "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ],
+  }

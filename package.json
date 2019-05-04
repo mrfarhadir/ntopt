@@ -1,0 +1,35 @@
+{
+  "name": "ntopt",
+  "version": "0.0.0",
+  "description": "convert number written format to persian text",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && tsc -p tsconfig.browser.json && gulp copy",
+    "build:minify": "npm run build && gulp minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrfarhadir/ntopt.git"
+  },
+  "keywords": [
+    "number",
+    "convert",
+    "format",
+    "persian",
+    "text",
+    "price"
+  ],
+  "author": "Farhad Mehryari <info@mrfarhad.ir>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrfarhadir/ntopt/issues"
+  },
+  "homepage": "https://github.com/mrfarhadir/ntopt#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.1",
+    "typescript": "^3.4.4",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
