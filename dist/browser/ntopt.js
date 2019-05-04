@@ -213,4 +213,3 @@ var Ntopt = /** @class */ (function () {
     };
     return Ntopt;
 }());
-export default Ntopt;
