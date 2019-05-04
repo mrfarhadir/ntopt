@@ -12,7 +12,7 @@ npm install ntopt --save
 > install package and require in your project
 
 - **`with cdn`**
-> 
+> https://unpkg.com/ntopt/dist/browser/ntopt.min.js
 
 ```javascript
 const Ntopt = require('./dist/ntopt')
