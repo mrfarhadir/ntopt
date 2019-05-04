@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/mrfarhadir/ntopt/issues"
   },
-  "homepage": "https://github.com/mrfarhadir/ntopt#readme",
+  "homepage": "http://ntopt.dev.mrfarhad.ir",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^4.0.1",
