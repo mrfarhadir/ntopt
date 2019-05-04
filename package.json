@@ -1,6 +1,6 @@
 {
   "name": "ntopt",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "description": "convert number written format to persian text",
   "main": "index.js",
   "scripts": {
